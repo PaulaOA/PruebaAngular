@@ -1,0 +1,6 @@
+<div *ngIf="imagen">
+    <h2>Información de la Imagen</h2>
+    <p><strong>Descripción:</strong> {{ imagen.descripcion }}</p>
+    <p><strong>URL:</strong> <a [href]="imagen.url" target="_blank">{{ imagen.url }}</a></p>
+    <p><strong>Tamaño:</strong> {{ imagen.tamano.ancho }} x {{ imagen.tamano.alto }} px</p>
+  </div>

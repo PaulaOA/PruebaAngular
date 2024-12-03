@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.ngenespanol.com/wp-content/uploads/2022/08/estudio-ayuda-a-conocer-origen-de-los-perros-1024x573.jpg",
+        "descripcion": "Perrete guapo",
+        "tamano": {
+            "ancho": 600,
+            "alto": 600
+        }
+    },
+    {
+        "url": "https://imagenes.20minutos.es/files/image_990_556/files/fp/uploads/imagenes/2024/02/02/un-perro-salchicha-en-una-imagen-de-archivo.r_d.959-678.jpeg",
+        "descripcion": "Imagen de ejemplo 2",
+        "tamano": {
+            "ancho": 600,
+            "alto": 600
+        }
+    },
+    {
+        "url": "https://s10.s3c.es/imag/_v0/2121x1157/a/7/a/1200x655_perro-frota-espalda-suelo-istock.jpg",
+        "descripcion": "Imagen de ejemplo 3",
+        "tamano": {
+            "ancho": 600,
+            "alto": 600
+        }
+    }
+]
